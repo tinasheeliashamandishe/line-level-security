@@ -28,7 +28,7 @@ Securing Virtual Terminal (VTY) lines, also known as remote management lines, is
 <br />
 
 <h4> Exec Timeout:</h4> 
-onfiguring an exec timeout is essential for managing the security and resources of networking devices, such as routers and switches. The exec timeout feature determines how long a user session remains active before it automatically terminates due to inactivity. <br/>
+Configuring an exec timeout is essential for managing the security and resources of networking devices, such as routers and switches. The exec timeout feature determines how long a user session remains active before it automatically terminates due to inactivity. <br/>
 <img src="https://i.imgur.com/AfW75rz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><br/>
 <br />
 
