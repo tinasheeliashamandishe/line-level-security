@@ -2,6 +2,7 @@
 
 <h2>Description</h2>
 This lab will show steps to secure a Cisco device at the line level.<br/>
+Configurations are done on a Router, but the same commands can be used on Switch.
 <br/>
 
 <h2>Environments Used </h2>
