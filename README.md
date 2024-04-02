@@ -32,4 +32,12 @@ Configuring an exec timeout is essential for managing the security and resources
 <img src="https://i.imgur.com/AfW75rz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><br/>
 <br />
 
+<h4> Priviledge Exec Password:</h4> 
+Configuring a privileged EXEC password is essential for ensuring the security and integrity of networking devices, such as routers and switches. The privileged EXEC password, also known as the enable password, controls access to privileged EXEC mode, which allows users to make configuration changes and access sensitive system settings. <br/>
+<img src="https://i.imgur.com/5ppCWDg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><br/>
+<br />
 
+<h4> Password Encryption:</h4> 
+Configuring a password encryption is important for enhancing the security of networking devices, such as routers and switches, by encrypting plaintext passwords stored in the device's configuration. <br/>
+<img src="https://i.imgur.com/NO09NKB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><br/>
+<br />
